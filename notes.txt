@@ -1,0 +1,14 @@
+Financial data resources:
+
+    In order to connect to web servers and gather data from them, one must first learn to use and implement APIs into one's code.
+
+    Financial data APIs available for use:
+        • iex (recommended if on python 3)
+        • MORNINGSTAR (recommended)
+        • ALPHA VANTAGE (recommended)
+        • Quandl
+        • YAHOO! finance data (Discontinued)
+
+    pandas-datareader will help extract data from an API.
+
+    (For practice and a much more complete learning experience, use the .csv files provided in the course.)
