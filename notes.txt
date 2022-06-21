@@ -12,3 +12,9 @@ Financial data resources:
     pandas-datareader will help extract data from an API.
 
     (For practice and a much more complete learning experience, use the .csv files provided in the course.)
+
+
+Using Quandl:
+
+Quandl is a platform that provides economic, financial, and alternative datasets. These can be used for finance in python.
+First, one must import the Quandl library to be able to use it.
